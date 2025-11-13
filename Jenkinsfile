@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "java-hello"
-        GIT_REPO = "https://github.com/B-Prathamesh/java-docker-jenkins.git"
+        GIT_REPO = "https://github.com/B-Prathamesh/devops-exam.git"
         GIT_BRANCH = "main"
     }
 
